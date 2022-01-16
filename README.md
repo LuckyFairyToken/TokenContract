@@ -1,6 +1,6 @@
 LuckyFairy (FAE) Smart Contract
 
-# Local deployment with Hardhat
+# Deployment with Hardhat
 
 ## Prerequiste 
 * Install Hardhat
