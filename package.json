@@ -1,0 +1,22 @@
+{
+  "name": "soak-contracts",
+  "version": "1.0.0",
+  "description": "Soakmont Token Solidity Smart Contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YB",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "chai": "^4.3.4",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.6.4",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
